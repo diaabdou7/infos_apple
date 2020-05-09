@@ -1,0 +1,29 @@
+.rouge
+{
+	color:red;
+}
+
+
+footer
+{    
+	height:200px;
+	
+	width: 100%;
+}
+
+footer h3
+{
+	text-align:center;
+	color:white;
+	background-color:blue;
+}
+
+.bordure_haut
+{
+     border-top: 1px solid blue;
+}
+
+h3
+{
+	border-bottom: 1px solid red;
+}
